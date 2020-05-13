@@ -26,7 +26,7 @@ We use BERT tokeniser from pyTorch. We remove stop words for TF-IDF representati
 * Bi-LSTM
 * GRU
 * Bi-GRU
-Experimental set up
+## Experimental set up
   * For each of them we test for 25 epochs at 
   * learning rate= 0.001 
   * using Adam Optimizer with a 
